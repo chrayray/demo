@@ -6,7 +6,6 @@ import java.util.Map.Entry;
 
 public class Cart {
 
-	private Map<Integer, CartItem> productMap;//// 關鍵字是商品的id，值是商品
 
 	private double price;// 代表著購物車的總價
 
